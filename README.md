@@ -12,7 +12,7 @@
 # Installation and usage
 Separate instructions for each RL task can be found in the respective subfolders.
 
-- [Imitation learning and conditional imitation learning](https://github.com/Princeton-RL/normalising-flows-4-reinforcement-learning/tree/main/IL-and-CIL)
+- [Imitation learning and conditional imitation learning](https://github.com/Princeton-RL/normalising-flows-4-reinforcement-learning/tree/main/il-and-cil)
 - [Offline RL](https://github.com/Princeton-RL/normalising-flows-4-reinforcement-learning/tree/main/offline-rl)
 - [Unsupervised goal conditional RL](https://github.com/Princeton-RL/normalising-flows-4-reinforcement-learning/tree/main/unsupservised-gcrl)
 
